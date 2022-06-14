@@ -26,7 +26,7 @@ export const Container = styled.div`
             color: var(--text-tile);
             }
 
-            &.deposito {
+            &.deposit {
                 color: var(--green);
             }
 
